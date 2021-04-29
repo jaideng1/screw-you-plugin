@@ -1,0 +1,9 @@
+name: ScrewYou
+main: me.jg1.screwyou.Main
+version: 1.0
+api-version: 1.16
+author: jg1_
+commands:
+  screwyou:
+    description: Screw you.
+    usage: /<command> <player> [<args>]
